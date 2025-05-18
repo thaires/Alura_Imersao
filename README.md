@@ -22,6 +22,8 @@ Fácil de Usar: Interface simples no Google Colab, com configuração mínima.
 
 ![Imagem de exemplo](flashcard.png)
 
+![Imagem de exemplo](hiragana.png)
+
 <h2>Como Usar</h2>
 
 Pré-requisitos

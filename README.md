@@ -3,8 +3,11 @@
 <h2>Visão Geral</h2>
 Aprenda japonês de forma interativa com este sistema de flashcards, focado em Hiragana, Katakana e vocabulário básico!
 
-Este projeto foi desenvolvido no Google Colab com a ajuda de um agente de IA 🤖 criado a partir de aulas da Imersão Alura 📚! 
+Este projeto foi desenvolvido no Google Colab com a ajuda de um agente de IA 🤖 criado a partir de aulas da Imersão Alura 📚!
+
 Afinal, foi o meu primeiro código e eu não conseguiria sem ajuda de um agente :) 
+
+Comecei a aprender japonês há 3 meses e pensei que seria uma ótima forma de estudar programação e línguas que é algo que já amo ❤️.
 
 <h2> Funcionalidades </h2>
 

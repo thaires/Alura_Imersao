@@ -20,6 +20,8 @@ Mensagens Motivacionais: Receba incentivo personalizado após cada ciclo de estu
 
 Fácil de Usar: Interface simples no Google Colab, com configuração mínima.
 
+![Imagem de exemplo](flashcard.png)
+
 <h2>Como Usar</h2>
 
 Pré-requisitos

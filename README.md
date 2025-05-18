@@ -81,6 +81,9 @@ vocab_verbs: Vocabulário de verbos.
 
 vocab_colors: Vocabulário de cores.
 
-Contribuição</h2>
+<h2>Contribuição</h2>
 
 Contribuições são bem-vindas! Se você tiver ideias para melhorar o projeto, como adicionar mais vocabulário, novos recursos ou otimizar o código, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
